@@ -2,7 +2,7 @@
 
 ## A. PROJECT SUMMARY
 
-**Project Title:** Face Mask Detection using Deep Learning
+lane line detection
 
 **Team Members:** 
 - Khairil Nur Azizie bin shafirudin
@@ -20,11 +20,11 @@
 
 ##  B. ABSTRACT 
 
-In late December 2019, a previous unidentified coronavirus, currently named as the 2019 novel coronavirus, emerged from Wuhan, China, and resulted in a formidable outbreak in many cities in China and expanded globally, including Thailand, Republic of Korea, Japan, United States, Philippines, Viet Nam, and our country (as of 2/6/2020 at least 25 countries). Covid-19 are Person-to-person transmission may occur through droplet or contact transmission and if there is a lack of stringent infection control or if no proper personal protective equipment available, it may jeopardize the first-line healthcare workers.
+A self-driving car, also known as an autonomous vehicle (AV or auto), driverless car, or robo-car is a vehicle that is capable of sensing its environment and moving safely with little or no human input.
 
-The best safety measure that can be taken is enforcing the people to wear a face mask whenever they are outside to slow down the COVID-19 infection rate. Mask wearing significantly reduced the amounts of various airborne viruses coming from infected patients, measured using the breath-capturing "Gesundheit II machine" developed by Dr. Don Milton, a professor of applied environmental health and a senior author of the study published April 3 in the journal Nature Medicine. In short, masks can help prevent the spread of COVID-19 and that the more people wearing masks, the better.
+Self-driving cars combine a variety of sensors to perceive their surroundings, such as radar, lidar, sonar, GPS, odometry and inertial measurement units. Advanced control systems interpret sensory information to identify appropriate navigation paths, as well as obstacles and relevant signage.
 
-As for now, you as a Data Scientist or Machine Learning Engineer or Practitioner are going to use AI technology to recognize people whether they are wearing face mask or not in the public or open space.
+Possible implementations of the technology include personal self-driving vehicles, shared robotaxis, connected vehicle platoons and long-distance trucking. Several projects to develop a fully self-driving commercial car are in various stages of development. Waymo became the first service provider to offer robotaxi rides to the general public in Phoenix, Arizona in 2020, while Tesla has said it will offer subscription-based "full self-driving" to private vehicle owners in 2021, and Nuro has been allowed to start autonomous commercial delivery operations in California in 2021.
 
 
 ![Coding](https://miro.medium.com/max/1400/1*fyfSOSKswsmV0n7Wdy6R4Q.jpeg)
