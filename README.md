@@ -5,10 +5,10 @@
 **Project Title:** Face Mask Detection using Deep Learning
 
 **Team Members:** 
-- [insert Member Name]
-- [insert Member Name]
-- [insert Member Name]
-- [insert Member Name]
+- Khairil Nur Azizie bin shafirudin
+- Amirul Aizat Bin Rosli
+- Ahmad Firdaus Bin Mohamad
+- Mohamad Syauqi Bin Abdul Latiff
 
 
 - [ ] **Objectives:**
